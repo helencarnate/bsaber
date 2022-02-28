@@ -38,3 +38,10 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+# Design & Sitemap
+
+[Working Sitemap](https://octopus.do/wrz4gzpgdae) via Octopus.do
+
+[Style Framework](https://xd.adobe.com/view/7540b40d-979e-44b7-846d-34c181a3781a-2013/) via Adobe XD
+*Full UI Style Guide is pending review by an actual designer. Contact BeastSaber Admins to volunteer.*
